@@ -32,9 +32,11 @@ a:hover{
 	border: 1px solid black;
 	border-radius: 10px;
 	background-color: yellow;
+	display: inline-block;
+}
+
 }
 .board{
-	height: 80%;
 	width: 50%;
 	height: 50%;
 	display: inline-block;
